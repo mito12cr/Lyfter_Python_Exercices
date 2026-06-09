@@ -1,0 +1,90 @@
+Ejercicio 1: Cree un pseudocódigo que le pida un precio de producto al usuario,
+calcule su descuento y muestre el precio final tomando en cuenta que:
+ * Si el precio es menor a 100, el descuento es del 2%.
+ * Si el precio es mayor o igual a 100, el descuento es del 10%.
+
+1. INICIO
+2. Definir Precio_Producto
+3. Definir Descuento
+4. Definir Precio_Final
+5. Descuento = 0
+6. Mostrar "Digite el Precio del Producto para su cálculo : "
+7. Pedir Precio_Producto
+8. Si (Precio_Producto < 100) Entonces:
+ a. Descuento =  (Precio_Producto * 2) / 100
+9. si no:
+ b. Si (Precio_Producto >= 100) Entonces:
+  i. Descuento = (Precio_Producto * 10) / 100
+ c. FinSi
+10. FinSi
+11. Precio_Final = (Precio_Producto - Descuento)
+12. Mostrar "El Precio Final es de : "
+13. Mostrar Precio_Final
+14. FIN
+
+Ejercicio 2: Cree un pseudocódigo que le pida un tiempo en segundos al usuario y calcule si es menor o mayor a 10 minutos.
+* Si es menor, muestre cuantos segundos faltarían para llegar a 10 minutos.
+* Si es mayor, muestre “Mayor”. Si es exactamente igual, muestre “Igual”.
+
+1. INICIO
+2. Definir Tiempo_Segundos
+3. Definir Segundos_Restantes
+3. Mostrar "Digite Un Tiempo en Segundos : "
+5. Pedir Tiempo_Segundos
+6. Si (Tiempo_Segundos < 600) Entonces
+ a. Segundos_Restantes = 600 - Tiempo_Segundos
+ b. Mostrar "El tiempo restante equivalentes en segundos para llegar a 10 minutos es : "
+ c. Mostrar Segundos_Restantes
+7. Si no 
+ a. Si (Tiempo_Segundos > 600) Entonces
+ b. Mostrar "Mayor"
+ c. FinSi
+8. Si no:
+ a. Si (Tiempo_Segundos = 600) Entonces
+ b. Mostrar "Igual"
+ c. FinSi
+9. FinSi
+10. FIN
+
+Ejercicio 3: Cree un algoritmo que le pida un numero al usuario,
+y realice una suma de cada numero del 1 hasta ese número ingresado.
+Luego muestre el resultado de la suma.
+
+1. Inicio
+2. Definir Numero_Solicitado
+3. Definir Contador
+4. Definir Suma_Numeros_Totales
+5. Suma_Numeros_Totales = 0
+6. Contador = 1
+7. Pedir "Digite un Número : "
+8. Pedir Numero_Solicitado 
+9. Mientras que(Contador <= Numero_Solicitado) hacer:
+ a. Suma_Numeros_Totales = Suma_Numeros_Totales + Contador
+ b. Contador = Contador + 1
+10. FinMientras
+11. Mostrar "La suma de cada número ingresado hasta el número inicial es de : "
+12. Mostrar Suma_Numeros_Totales
+13. Fin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

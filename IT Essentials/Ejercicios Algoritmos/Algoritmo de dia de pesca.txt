@@ -1,0 +1,35 @@
+Preparacion para un dia de pesca en Kayak.
+
+1. Inicio.
+2. Abrir la aplicacion de Windy.
+3. Buscar el dia entre semana adecuado.
+4. Si el dia seleccionado tiene mucho viento durante el transcurso del mismo:
+ 4.1. Pasar a buscar otro dia.
+ 4.2. Si no, Marcar como dia seleccionado.
+5. Abrir la aplicacion de Mareas de Guanacaste.
+6. Buscar y determinar las mareas adecuadas para ese dia y marcarlas.
+7. Alistar equipo de pesca:
+ 7.1. Revisar señuelos y Triples o Asistentes (Anzuelos).
+ 7.2. Si, el señuelo seleccionado se encuetra en mal estado:
+  7.2.1. Descartar señuelo.
+ 7.3. Si no, Seleccionar y guardar en la caja principar de pesca.
+ 7.4. Revisar la cuerda del carrete de pesca.
+ 7.5. Si, la cuerda del carrete de pesca se encuentra en mal estado:
+  7.5.1. Retirar y cambiar cuerda del carrete.
+ 7.6. Si no, Revisar cuerda de lider o principal.
+ 7.7. Si, el lider se encuentra desgastado o el nudo estè defectuoso:
+  7.7.1. Cambiar el lider y realizar nudo nuevo.
+ 7.8. Si no, dejar listo el carrete de pesca.
+ 7.9. Revisar y checkear caña de pesca.
+ 7.10. Si, la caña presenta algun defecto en las guias de la misma:
+  7.10.1. Buscar otra caña.
+ 7.11. Si no, Dejar caña de pesca lista para su uso.
+8. Alistar y seleccionar ropa e indumentaria de pesca.
+9. Revisar Kayak de pesca en busca de algun defecto en el mismo.
+10. Revisar y aceitar los pedales del kayak.
+11. Buscar y acomodar los remos del kayak en el mismo.
+12. Poner a congelar recipientes con agua para hielo.
+13. Alistar y limpiar hielera.
+14. Alistar y preparar Sandwiches para la comida.
+15. Alistar y guardar el agua y refrescos en la hielera.
+16. Fin      

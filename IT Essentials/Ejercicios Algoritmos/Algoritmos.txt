@@ -1,0 +1,72 @@
+Algoritmo para ver un video en YouTube
+
+1. Inicio
+2. si tiene Computadora:
+  1. Encender la computadora.
+3. Sino, si tiene Smartphone:
+  1. Encender Smartphone.
+4. Sino, si tiene Tablet:
+  1. Encender Tablet.
+5. Sino, si tiene SmartTv:
+  1. Encender SmartTv.
+6. Sino:
+  1. Comprar o conseguir alguno de los dispositivos anteriores.
+7. Buscar el video a reproducir.	
+8. Dar Click o tab en el dispositivo para reproducirlo.
+9. Fin
+
+
+Algoritmo de Rutina Diaria
+
+1. Inicio
+2. Despertar.
+3. Salir de la cama.
+4. ir al lavamanos, abrir el fregadero y lavarse la cara. 
+5. Preparar un cafè.
+6. preparar desayuno.
+  1. Si hay huevos: 
+    1. Preparar y cocinar 3 huevos.
+  2. Sino, Si hay arroz y frijoles:
+    1. Preparar, mezclar el arroz y los frijoles y cocinar.
+  3. Sino, si hay pan:
+    1. tostar el pan.
+  4. Sino, Salir a comprar al super alguno de los ingredientes anteriores.
+7. Por cada utencilios de cocina sucio:
+ 1. Llenar esponja con jabon o liquido para lavar platos.
+ 2. Tomar utencilio de cocina sucio.
+ 3. Mientras que el utencilio estè sucio:
+   1. Restregar el utencilio y lavar con agua.
+8. Acomodar y guardar utencilios de cocina.
+9. Tomar un baño o ducha.
+10. Buscar la ropa que usarè para ese dia.
+11. Poner desodorante y crema para el cabello.
+12. Salir de casa al trabajo.
+13. Si tiene automovil y el automovil tiene gasolina y marchamo:
+ 1. Salir en automovil.
+14. Sino, si tiene bicicleta y està en optimas condiciones:
+ 1. Salir en bicicleta.
+15. Sino, Si hay dinero:
+ 1. Ir en autobus.
+16. Sino, Caminar.
+17. Realizar la jornada de trabajo.
+18. Volver a casa de la misma forma en que lleguè al trabajo.
+19. Tomar un baño o ducha.
+20. Preparar la cena.
+21. Ir a la cama y dormir.
+22. Fin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 			 
