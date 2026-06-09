@@ -1,0 +1,23 @@
+Algoritmo de preparacion para Examen
+
+1. Inicio.
+2. Encender la computadora.
+3. Abrir el block de notas.
+4. Escribir los temas del examen en el block de notas.
+5. Abrir el navegador de preferencia.
+6. Buscar informacion de cada uno de los temas en el navegador.
+7. Redactar Resumen de cada uno de los temas encontrados.
+8. Una vez terminado los resumenes de cada tema comenzar a estudiar para el examen.
+9. Mientras exista una duda de cada tema:
+ 9.1. Leer profundamente nuevamente el Resumen de ese tema en especifico.
+ 9.2. Realizar practica o ejercisio correspondiente al tema.
+ 9.3. Si, aun se es dificil realizar el ejercisio:
+   9.3.1. Buscar un video de guia en el navegador o YouTube. 
+ 9.4. Si el tema quedò claro y seguro pasar al siguiente tema.	
+ 9.5. Si no, Volver a repasar y realizar practica correspondiente (9.1).
+10. Guardar documento en digital para repasar en dias posteriores antes de la prueba.
+11. Cerrar las ventanas y programas de la computadora.
+12. Apagar la computadora.
+
+
+ 

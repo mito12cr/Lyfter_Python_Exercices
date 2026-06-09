@@ -1,0 +1,75 @@
+Algoritmo de fiesta Sorpresa.
+
+1. Inicio.
+2. Enviar invitaciones a amigos y familiares.
+3. Llamar al cumpleañero y citarlo para ir al cine por la tarde.
+4. Ir al supermecado hacer las compras.
+5. Si tiene automovil y el automovil tiene gasolina y marchamo:
+ 1. Salir en automovil.
+6. Sino, Si hay dinero:
+ 1. Ir en autobus.
+7. Sino, Caminar.
+8. Entrar al supermercado.
+9. Buscar carrito de compras.
+10. Buscar refrescos y hecharlos al carrito de compras.
+11. Buscar carne, pollo y salchichon y agregarlos al carrito de compras.
+12. Buscar platos y vasos y agregarlos al carrito de compras.
+13. Buscar carbon y encendedor y agregarlos al carrito de compras.
+14. Buscar el Queque y hecharlo al carrito de compras.
+15. Ir a cajas y cancelar la orden.
+16. Volver a casa.
+17. Sacar las compras.
+18. Guardar refrescos en el refrigerador.
+19. Alistar la carne y guardar en el refrigerador.
+20. Llamar a hermano en comun para que se haga cargo de recibir a los invitados.
+21. Mientras espera la llegada del hermano: 
+  1. arreglar y decorar el apartamento para la sorpresa.
+  2. Tomarse un fresco.
+22. Abrir la puerta al hermano.
+23. Dejar a cargo de la llegada de los invitados.
+24. Ir a rrecojer al cumpleañero a su casa.
+25. Llevarlo al cine a la tanda de 6pm.
+26. Mientras los invitados van llegando:
+  1. Acomodar mesas y sillas.
+  2. Servir bocadillos y frescos.
+27. Encender la parrilla.
+28. Salir del cine.
+29. Llamar y avisar al hermanos que vamos de camino hacia el apartamento.
+30. Avisar al cumpleañero que iremos al apartamento por mi esposa.
+31. Mientras esperan la llegada del cumpleañero en secreto:
+  1. Apagar luces.
+  2. Mantener en silencio a los invitados.
+  3. Esperar llegada para la sorpresa.
+32. Llegar al apartamento.
+33. Entrar al apartamento con el cumpleañero.
+34. Encender las velas del pastel
+35. Encender las luces y dar sorpresa. 
+36. Cantar cumpleaños feliz.
+37. Azar la carne y repartirla a los invitados y al cumpleañero.
+38. Partir el pastel y repartirlo.
+39. Despedir a los invitados y al cumpleañero.
+40. Fin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

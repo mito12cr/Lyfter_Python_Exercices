@@ -1,0 +1,14 @@
+
+Inicio
+Definir Numero
+Definir Numero_Mayor
+Definir Contador = 1
+Mientras (Contador <=5) Hacer
+Mostrar "Digite un Número: "
+Pedir Numero
+Contador = Contador + 1
+
+
+
+www.linkedin.com/in/jaime-vanegas
+https://www.eporner.com/tag/kimura-aiko/

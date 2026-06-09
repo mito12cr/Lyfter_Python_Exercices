@@ -1,0 +1,30 @@
+
+cd desktop
+mkdir Empleado1, Empleado2, Empleado3
+cd Empleado1
+echo > bienvenida1.txt
+cd ..
+cd Empleado2
+echo > bienvenida2.txt
+cd ..
+cd Empleado3
+echo > bienvenida3.txt
+cd ..
+mkdir Empleados
+move Empleado1 Empleados
+move Empleado2 Empleados
+move Empleado3 Empleados
+tasklist
+ping google.com
+cd empleados
+cd Empleado1
+ren bienvenida1.txt Wellcome.txt
+cd..
+cd Empleado2
+ren bienvenida2.txt Wellcome.txt
+cd..
+cd Empleado3
+ren bienvenida3.txt Wellcome.txt
+cd..
+cd..
+rmdir /s "C:\Users\mito1\Desktop\Empleados"

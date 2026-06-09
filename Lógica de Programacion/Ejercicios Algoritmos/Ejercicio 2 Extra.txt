@@ -1,0 +1,123 @@
+Ejercicio 1: Cree un algoritmo que le pida 2 números al usuario,
+los guarde en dos variables distintas (primero y segundo) y los ordene de menor a mayor
+ en dichas variables.
+
+1. Inicio.
+2. Definir Numero1
+3. Definir Numero2
+4. Definir Primero
+5. Definir Segundo
+6. Mostrar " Digite el primer numero : "
+7. Pedir Numero1
+8. Mostrar " Digite el segundo numero : "
+9. Pedir Numero2
+10. Si (Numero1 < numero2) Entonces
+ a. Primero = numero1
+ b. Segundo = numero2
+ c. Mostrar "El numero Menor es: " + Primero + "El numero Mayor es: " + Segundo
+11. Si no :
+ a. Primero = numero2
+ b. Segundo = numero1
+ c. Mostrar "El numero Menor es: " + Primero + "El numero Mayor es: " + Segundo
+ c. FinSi
+12. FinSi
+13. Fin
+
+
+Ejercicio 2: Cree un algoritmo que le pida al usuario una velocidad en km/h
+ y la convierta a m/s. Recuerda que 1 km == 1000m y 1 hora == 60 minutos * 60 segundos.
+
+1. Inicio
+2. Definir VelocidadKmH
+3. Definir VelocidadMS
+4. Definir SegundosHora
+5. Definir MetrosKms
+6. SegundosHora = 3600
+7. MetrosKms = 1000
+8. Mostrar "Digite la velocidad en Kilometros a Calcular: "
+9. Pedir VelocidadKmH
+10. VelocidadMS = (VelocidadKmH * MetrosKms) /  SegundosHora 
+11. Mostrar "La velocidad convertida a metros por segundos es de: "
+12. Mostrar VelocidadMS 
+11. fin
+
+
+Ejercicio 3: Cree un algoritmo que le pregunte al usuario por el sexo de 6 personas,
+ ingresando 1 si es mujer o 2 si es hombre, y muestre al final el porcentaje de mujeres y hombres.
+
+1. Inicio
+2. Definir Hombres
+3. Definir Mujeres
+4. Definir Porcentaje_Hombres
+5. Definir Porcentaje_Mujeres
+6. Definir Contador
+7. Definir Sexo 
+8. Hombres = 0
+9. Mujeres = 0
+10. Contador = 1
+11. Mientras (Contador <= 6) Hacer
+12. Mostrar "Digite 1 para sexo Femenino O, 2 Para sexo Masculino para la Persona: "
+13. Pedir Sexo
+14. Si (Sexo = 1) Entonces
+ a. Mujeres = Mujeres + 1
+13. SiNo:
+ a. Hombres = Hombres + 1
+14. FinSi
+15 Contador = Contador + 1
+16. Fin Mientras
+17. Porcentaje_Hombres = (Hombres / 6) * 100
+18. Porcentaje_Mujeres = (Mujeres / 6) * 100
+19. Mostrar "El Porcentaje de Hombres es de: "
+20. Mostrar Porcentaje_Hombres
+21. Mostrar "El Porcentaje de Mujeres es de: "
+22. Mostrar Porcentaje_Mujeres
+23. Fin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

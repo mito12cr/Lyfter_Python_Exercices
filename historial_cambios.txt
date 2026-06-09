@@ -1,0 +1,15 @@
+Lyfter_Python_Exercices:
+
+1- El primer commit se crea a partir de la creacion del repositorio junto con el archivo "readme" con el mensaje "initial commit"
+2- El segundo commit se crea a partir de la creacion del branch de nombre 'Ejercicios_Completados' y de la subida de todos los archivos a nuestra rama creada anteriormente con el mensaje de "Uploading First python exercices"
+3- Hay un segundo commit en el mismo branch donde se depuran las carpetas y archivos necesarios con el mensaje de "Modifying folders and files"
+4- El cuarto commit se realiza a partir de la creacion del branch 'past-exercises' con el mensaje de "Exercise 1 of git"
+
+
+
+
+
+
+
+
+
