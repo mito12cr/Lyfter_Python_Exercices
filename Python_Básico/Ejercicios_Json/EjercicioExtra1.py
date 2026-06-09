@@ -50,8 +50,8 @@ def display_pokemon_list(pokemon_list):
     print("         REPORTE ACTUAL DE POKÉMONES        ")
     print("=============================================\n")
 
-    for any_pokemon in pokemon_list:
-        text_to_print = format_pokemon_info(any_pokemon)
+    for pokemon in pokemon_list:
+        text_to_print = format_pokemon_info(pokemon)
         print(text_to_print)
 
 if __name__ == "__main__":
